@@ -40,7 +40,7 @@ Inclui suporte a tema escuro/claro e botão de Libras para acessibilidade! 🌙�
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/LarissaVie/Mage.git
+git clone https://github.com/seu-usuario/Mage.git
 
 # 2. Entre na pasta do projeto
 cd Mage
@@ -63,7 +63,9 @@ Abra no Expo Go (app do celular) ou no emulador Android/iOS.
   /components
     BotaoTema.tsx
     CardLugar.tsx
+    index.ts
     LibrasButton.tsx
+    StateDisplay.tsx
   /context
     FavoritesContext.tsx
     ThemeContext.tsx
@@ -113,4 +115,4 @@ Sinta-se à vontade para abrir issues, sugerir melhorias ou reportar bugs.
 
 ---
 
-> Desenvolvido com 💚 por [Jhonata e Larissa]
+> Desenvolvido com 💚 por [Jhonata e Larissa](https://github.com/seu-usuario)
